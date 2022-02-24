@@ -1,7 +1,7 @@
 package com.singleton;
 
 /**
- * Double check locking wiht lazy loading singleton Desing pattern
+ * Double check locking with lazy loading singleton Design pattern
  * 
  * @author Tejas
  *
