@@ -1,5 +1,5 @@
 # Design-pattern
-###Solid Design principals
+### Solid Design principals
 	- Single Responsibility
 		^ A class should only have one responsibility. 
 		^ It should only have one reason to change.
